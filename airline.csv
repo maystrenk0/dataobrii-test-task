@@ -1,0 +1,189 @@
+callsign,country,iata,icao,id,name,type,test_data
+MILE-AIR,United States,Q5,MLA,10,40-Mile Air,airline,5
+TXW,United States,TQ,TXW,10123,Texas Wings,airline,10
+atifly,United States,A1,A1F,10226,Atifly,airline,4
+,United Kingdom,,JRB,10642,Jc royal.britannica,airline,6
+LOCAIR,United States,ZQ,LOC,10748,Locair,airline,6
+SASQUATCH,United States,K5,SQH,10765,SeaPort Airlines,airline,3
+ACE AIR,United States,KO,AER,109,Alaska Central Express,airline,0
+FLYSTAR,United Kingdom,5W,AEU,112,Astraeus,airline,7
+REUNION,France,UU,REU,1191,Air Austral,airline,9
+AIRLINAIR,France,A5,RLA,1203,Airlinair,airline,5
+CITRUS,United States,FL,TRS,1316,AirTran Airways,airline,10
+,United States,-+,--+,13391,U.S. Air,airline,0
+SPEEDBIRD,United Kingdom,BA,BAW,1355,British Airways,airline,8
+,United States,WQ,PQW,13633,PanAm World Airways,airline,5
+AIRFRANS,France,AF,AFR,137,Air France,airline,4
+AIRCALIN,France,SB,ACI,139,Air Caledonie International,airline,7
+T&,France,&T,T&O,13947,Tom\'s & co airliners,airline,2
+BRINTEL,United Kingdom,BS,BIH,1411,British International Helicopters,airline,9
+MIDLAND,United Kingdom,BD,BMA,1437,bmi,airline,4
+BABY,United Kingdom,WW,BMI,1441,bmibaby,airline,4
+BEMIDJI,United States,CH,BMJ,1442,Bemidji Airlines,airline,5
+,United Kingdom,,BMR,1445,British Midland Regional,airline,7
+BERING AIR,United States,8E,BRG,1472,Bering Air,airline,1
+NIGHT CARGO,United States,2Q,SNC,149,Air Cargo Carriers,airline,9
+BRITAIR,France,DB,BZH,1523,Brit Air,airline,7
+BEE MED,United Kingdom,KJ,LAJ,1543,British Mediterranean Airways,airline,0
+AIRMAX,United States,,XBM,15887,CBM America,airline,1
+Stallion,United States,BZ,BSA,15975,Black Stallion Airways,airline,9
+,United Kingdom,1F,CIF,16261,CB Airways UK ( Interliging Flights ),airline,4
+,United States,T6,TP6,16264,Trans Pas Air,airline,10
+CAIR,United States,9K,KAP,1629,Cape Air,airline,6
+USKY,United States,E1,ES2,16702,Usa Sky Cargo,airline,8
+ERAH,United States,7H,ERR,16726,Era Alaska,airline,3
+,United States,H1,HA1,16735,Hankook Air US,airline,7
+Vickjet,France,KT,VKJ,16837,VickJet,airline,7
+Cudlua,United Kingdom,,CUD,16881,Air Cudlua,airline,9
+Orbit,United States,,OBT,16932,Orbit Airlines,airline,10
+CHAUTAUQUA,United States,RP,CHQ,1739,Chautauqua Airlines,airline,6
+,United States,,XOJ,17563,XOJET,airline,1
+OA,United States,,OAI,17628,Orbit International Airlines,airline,6
+OA,United States,,OAR,17629,Orbit Regional Airlines,airline,1
+,United States,,OAN,17630,Orbit Atlantic Airways,airline,7
+aws,United States,B0,666,17841,Aws express,airline,0
+,United States,76,SJS,17859,Southjet,airline,6
+,United States,77,ZCS,17860,Southjet connect,airline,8
+,United States,78,XAN,17862,Southjet cargo,airline,8
+FLYER,United Kingdom,CJ,CFE,1795,BA CityFlyer,airline,8
+RUBY,United States,V2,RBY,18178,Vision Airlines (V2),airline,1
+COLGAN,United States,9L,CJC,1821,Colgan Air,airline,0
+,United States,YE,YEL,18239,Yellowtail,airline,4
+RAW,United States,KG,RAW,18241,Royal Airways,airline,0
+,United States,,XSR,18257,Executive AirShare,airline,10
+COMAIR,United States,OH,COM,1828,Comair,airline,0
+COMMUTAIR,United States,C5,UCA,1843,CommutAir,airline,4
+T.J. Air,United States,TJ,TJA,18529,T.J. Air,airline,2
+Compass Rose,United States,CP,CPZ,1860,Compass Airlines,airline,10
+CONTINENTAL,United States,CO,COA,1881,Continental Airlines,airline,7
+AIR MIKE,United States,CS,CMI,1884,Continental Micronesia,airline,10
+Maryland Flight,United States,M1,M1F,18930,Maryland Air,airline,5
+APACHE,United States,ZM,IWA,19016,Apache Air,airline,1
+CORSAIR,France,SS,CRL,1908,Corsairfly,airline,1
+CORSICA,France,XK,CCM,1909,Corse-Mediterranee,airline,8
+CREST,United Kingdom,,CAN,1923,Crest Aviation,airline,0
+,United States,N8,NCR,19287,National Air Cargo,airline,2
+EAVA,United States,13,EAV,19290,Eastern Atlantic Virtual Airlines,airline,5
+CROWN AIRWAYS,United States,,CRO,1931,Crown Airways,airline,9
+Comfort Express,United States,,EVC,19350,Comfort Express Virtual Charters Albany,airline,4
+,United States,,CEO,19351,Comfort Express Virtual Charters,airline,5
+XAIR,United States,XA,XAU,19433,XAIR USA,airline,5
+BBN,United Kingdom,,EGH,19525,BBN-Airways,airline,10
+Envoy,United States,,ENY,19619,Envoy Air,airline,7
+Rainbow,United States,RN,RAB,19674,Rainbow Air (RAI),airline,9
+Rainbow Air,United States,RX,RPO,19676,Rainbow Air Polynesia,airline,8
+Rainbow Air,United Kingdom,RU,RUE,19677,Rainbow Air Euro,airline,8
+Rainbow Air,United States,RM,RNY,19678,Rainbow Air US,airline,9
+Spike Air,United States,S0,SAL,19774,Spike Airlines,airline,10
+,United States,A2,AL2,19804,All America,airline,2
+,United Kingdom,N9,N99,19808,All Europe,airline,1
+DELTA,United States,DL,DAL,2009,Delta Air Lines,airline,10
+AIGLE AZUR,France,ZI,AAF,21,Aigle Azur,airline,0
+AIRLIFT,United States,,AIR,210,Airlift International,airline,6
+EASTFLIGHT,United Kingdom,T3,EZE,2117,Eastern Airways,airline,10
+ALOHA,United States,AQ,AAH,22,Aloha Airlines,airline,1
+TAHITI AIRLINES,France,TN,THT,225,Air Tahiti Nui,airline,1
+EVERGREEN,United States,EZ,EIA,2261,Evergreen International Airlines,airline,1
+EXPO,United Kingdom,JN,XLA,2264,Excel Airways,airline,5
+HELI EXCEL,United Kingdom,,XEL,2265,Excel Charter,airline,10
+LONGHORN,United States,EO,LHN,2293,Express One International,airline,5
+JET LINK,United States,XE,BTA,2295,ExpressJet,airline,2
+EASY,United Kingdom,U2,EZY,2297,easyJet,airline,9
+JETSET,United Kingdom,DP,FCA,2357,First Choice Airways,airline,5
+FLIGHTLINE,United Kingdom,B5,FLT,2395,Flightline,airline,1
+AMERICAN,United States,AA,AAL,24,American Airlines,airline,5
+FLO WEST,United States,RF,FWL,2404,Florida West International Airways,airline,4
+JERSEY,United Kingdom,BE,BEE,2421,Flybe,airline,5
+GLOBESPAN,United Kingdom,B4,GSM,2425,Flyglobespan,airline,0
+FREEDOM,United States,FP,FRE,2454,Freedom Air,airline,0
+FREEDOM AIR,United States,,FRL,2456,Freedom Airlines,airline,3
+FRONTIER FLIGHT,United States,F9,FFT,2468,Frontier Airlines,airline,9
+FRONTIER-AIR,United States,2F,FTA,2470,Frontier Flying Service,airline,7
+GEEBEE AIRWAYS,United Kingdom,GT,GBL,2486,GB Airways,airline,6
+GATEWAY,United States,G7,GJS,2577,GoJet Airlines,airline,2
+LAKES AIR,United States,ZK,GLA,2607,Great Lakes Airlines,airline,3
+GULF FLIGHT,United States,,GFT,2645,Gulfstream International Airlines,airline,5
+HAGELAND,United States,H6,HAG,2657,Hageland Aviation Services,airline,10
+HAWAIIAN,United States,HA,HAL,2688,Hawaiian Airlines,airline,3
+HELIFRANCE,France,8H,HFR,2704,Heli France,airline,3
+HEX AIRLINE,France,UD,HER,2757,Hex'Air,airline,3
+HIWAY,United Kingdom,,HWY,2761,Highland Airways,airline,8
+HORIZON AIR,United States,QX,QXE,2778,Horizon Air,airline,5
+CACTUS,United States,HP,AWE,281,America West Airlines,airline,2
+AIR WISCONSIN,United States,ZW,AWI,282,Air Wisconsin,airline,4
+INDIGO BLUE,United States,I9,IBU,2855,Indigo,airline,4
+ALLEGHENY,United States,,ALO,287,Allegheny Commuter Airlines,airline,7
+AIR SUNSHINE,United States,,RSI,295,Air Sunshine,airline,10
+CHANNEX,United Kingdom,LS,EXS,3026,Jet2.com,airline,7
+JETBLUE,United States,B6,JBU,3029,JetBlue Airways,airline,3
+KENMORE,United States,M5,KEN,3123,Kenmore Air,airline,9
+AMTRAN,United States,,AMT,315,ATA Airlines,airline,10
+AIR SHUTTLE,United States,YV,ASH,3466,Mesa Airlines,airline,3
+MESABA,United States,XJ,MES,3467,Mesaba Airlines,airline,5
+MIDWAY,United States,JI,MDW,3494,Midway Airlines,airline,5
+,United States,YX,MEP,3497,Midwest Airlines,airline,9
+ALLEGIANT,United States,G4,AAY,35,Allegiant Air,airline,7
+MONARCH,United Kingdom,ZB,MON,3532,Monarch Airlines,airline,10
+KESTREL,United Kingdom,VZ,MYT,3568,MyTravel Airways,airline,8
+EXECJET,United States,1I,EJA,3641,NetJets,airline,8
+NEW ENGLAND,United States,EJ,NEA,3644,New England Airlines,airline,9
+COUNTY,United Kingdom,,NCF,3684,Norfolk County Flight College,airline,9
+NORTHWEST,United States,NW,NWA,3731,Northwest Airlines,airline,9
+OMNI-EXPRESS,United States,OY,OAE,3781,Omni Air International,airline,0
+PACIFIC ISLE,United States,,PSA,3860,Pacific Island Aviation,airline,9
+TSUNAMI,United States,LW,NMI,3865,Pacific Wings,airline,6
+PENINSULA,United States,KS,PEN,3935,Peninsula Airways,airline,4
+PIEDMONT,United States,PI,PDT,3969,Piedmont Airlines (1948-1989),airline,9
+BIG A,United States,JW,APW,397,Arrow Air,airline,1
+FLAGSHIP,United States,9E,FLG,3976,Pinnacle Airlines,airline,3
+DISTRICT,United States,BK,PDC,4026,Potomac Air,airline,6
+KINLOSS,United Kingdom,,KIN,4113,Kinloss Flying Training Unit,airline,2
+BRICKYARD,United States,RW,RPA,4187,Republic Airlines,airline,0
+RYAN AIR,United States,,RYA,4294,Ryan Air Services,airline,2
+RYAN INTERNATIONAL,United States,RD,RYN,4295,Ryan International Airlines,airline,1
+REGIONAL EUROPE,France,YS,RAE,4299,RÃ©gional,airline,2
+SUCKLING,United Kingdom,,SAY,4323,ScotAirways,airline,1
+SEABORNE,United States,BB,SBS,4335,Seaborne Airlines,airline,5
+SCENIC,United States,,SCE,4342,Scenic Airlines,airline,0
+SUN COUNTRY,United States,SY,SCX,4356,Sun Country Airlines,airline,0
+SOUTHEAST AIR,United States,,SEA,4370,Southeast Air,airline,4
+SKAGWAY AIR,United States,N5,SGY,4411,Skagway Air Service,airline,0
+ACEY,United States,EV,ASQ,452,Atlantic Southeast Airlines,airline,6
+SOUTHWEST,United States,WN,SWA,4547,Southwest Airlines,airline,7
+SKYWAY-EX,United States,AL,SYX,4589,Skywalk Airlines,airline,2
+SPIRIT WINGS,United States,NK,NKS,4687,Spirit Airlines,airline,4
+SKYWEST,United States,OO,SKW,4738,SkyWest,airline,0
+,France,PJ,SPM,477,Air Saint Pierre,airline,0
+SOUTHERN EXPRESS,United States,,SOU,4804,Southern Airways,airline,10
+SOUTH PACIFIC,United States,,SPI,4816,South Pacific Island Airways,airline,9
+MERCURY,United States,S5,TCF,4822,Shuttle America,airline,7
+KESTREL,United Kingdom,MT,TCX,4897,Thomas Cook Airlines,airline,0
+SWALLOW,United Kingdom,,WOW,492,Air Southwest,airline,2
+TWINJET,France,T7,TJT,4965,Twin Jet,airline,4
+TOMSON,United Kingdom,BY,TOM,5013,Thomsonfly,airline,3
+AYLINE,United Kingdom,GR,AUR,508,Aurigny Air Services,airline,8
+WATERSKI,United States,AX,LOF,5160,Trans States Airlines,airline,4
+GETAWAY,United States,U5,GWY,5207,USA3000 Airlines,airline,1
+UNITED,United States,UA,UAL,5209,United Airlines,airline,6
+U S AIR,United States,US,USA,5265,US Airways,airline,9
+US-HELI,United States,,USH,5268,US Helicopter,airline,3
+AIR CHIEF,United States,,AIO,5279,United States Air Force,airline,0
+REDWOOD,United States,VX,VRD,5331,Virgin America,airline,9
+VIRGIN,United Kingdom,VS,VIR,5347,Virgin Atlantic Airways,airline,1
+WESTERN,United States,WA,WAL,5424,Western Airlines,airline,1
+WORLD,United States,WO,WOA,5465,World Airways,airline,0
+MEDITERRANEE,France,DR,BIE,547,Air Mediterranee,airline,7
+STARWAY,France,SE,SEU,5479,XL Airways France,airline,8
+AIR MOOREA,France,,TAH,551,Air Moorea,airline,0
+RED DRAGON,United Kingdom,6G,AWW,565,Air Wales,airline,6
+FRENCH WEST,France,TX,FWI,567,Air CaraÃ¯bes,airline,4
+EAGLE FLIGHT,United States,MQ,EGF,659,American Eagle Airlines,airline,10
+FLIGHTVUE,United Kingdom,,VUE,665,AD Aviation,airline,10
+FOYLE,United Kingdom,GS,UPA,690,Air Foyle,airline,0
+CYCLONE,United States,ZA,CYD,792,Access Air,airline,7
+CBS,,,,8091,Couchbase Airways,airline,9
+FRENCH SUN,France,TO,TVF,8745,Transavia France,airline,0
+,United States,WP,MKU,8809,Island Air (WP),airline,3
+AIR FLORIDA,United States,QH,FLZ,882,Air Florida,airline,4
+GIANT,United States,5Y,GTI,928,Atlas Air,airline,8
+Epic,United States,FA,4AA,9833,Epic Holiday,airline,9
